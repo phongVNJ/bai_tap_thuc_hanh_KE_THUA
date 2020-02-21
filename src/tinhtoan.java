@@ -22,7 +22,7 @@ public class tinhtoan {
         for (int i =0;i<6;i++){
             sum += Mylist[i].price;
         }
-        System.out.println(sum);
+        System.out.println("gia cua 6 quyen sach:"+sum);
         int countJavaBook = 0;
 
         for(int i = 0; i < 6; i++){
